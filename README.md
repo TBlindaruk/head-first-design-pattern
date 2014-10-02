@@ -20,13 +20,13 @@ Table of Contents
 
 ### Introduction
 
-First let me say that "Head First Design Patterns" is a fantastic book serving
-as a solid and easy to understand introduction into Design Patterns. I am a much
-more in tune with the appropriate use of patterns because of the efforts of its
-authors. To help further my understanding of the patterns, Java, and PHP (I
-started my career in PHP but also have jumped into Java), I decided to follow
-the excellent examples set by Mark McFadden (C# port) and Glenn Puchtel (C++
-port) and port the examples to PHP.
+First let me say that [_Head First Design Patterns_](http://amzn.com/0596007124)
+is a fantastic book serving as a solid and easy to understand introduction into
+Design Patterns. I am a much more in tune with the appropriate use of patterns
+because of the efforts of its authors. To help further my understanding of the
+patterns, Java, and PHP (I started my career in PHP but also have jumped into
+Java), I decided to follow the excellent examples set by Mark McFadden (C# port)
+and Glenn Puchtel (C++ port) and port the examples to PHP.
 
 I know what you may be thinking: PHP is a Web-oriented language and doesn't
 really hold its own against the object oriented power of Java. Not so! While PHP
