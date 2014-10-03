@@ -105,12 +105,14 @@ directories by category.
 
 Easy way...
 
-Simply run the appropriate run script and then follow the directions. Easy!
+Simply run the appropriate run script from the terminal / command line and
+then follow the directions. Easy!
 
 To elaborate, to simply run an example (or all examples) via command line, you
-will use the run.bat and run.sh scripts, depending on your OS. Windows users
-would run the .bat, and Linux and Mac OS X users would run the .sh. Ideally,
-you'd run then from the terminal / command prompt.
+will use the interactive run.bat and run.sh scripts, depending on your OS.
+Windows users would run the .bat file, and Linux and Mac OS X users would run the
+.sh file. You may need to modify the .sh file permissions, adding the executable
+flag, for it to run.
 
 Manually...
 
