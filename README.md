@@ -47,7 +47,7 @@ If you have any questions or feedback, I'd love to hear from you!
 ### Requirements
 
 - PHP 5.2 or better
-	- Sockets extension enabled
+	- Sockets extension enabled for running Proxy Pattern
 - Windows (tested with Server 2000), Linux (tested with Ubuntu 8.10), Mac OS X
   (tested with 10.5.7)
 - Web server to run MVC example (tested with Apache HTTP Server 2 and IIS 5)
