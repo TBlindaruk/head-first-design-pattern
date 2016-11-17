@@ -232,8 +232,8 @@ directory or symlink to pull the public directory into an existing site.
 ##### Abstract Factory Method
 
 - The factory method pattern lets a class defer object instantiation to a
-  a subclass. Simple factory on the other hand just allows some class to do
-  the instantiation.
+  subclass. Simple factory on the other hand just allows some class to do the
+  instantiation.
 
 #### Iterator Pattern - Chapter 9
 
