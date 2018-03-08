@@ -28,7 +28,8 @@ class CafeMenu implements Menu {
 	}
 
 	public function createIterator() {
-		return new MyArrayIterator(array_values($this->menuItems));
+		$menuItemsValues = array_values($this->menuItems); // Quiets PHP "Only variables should be passed by reference"
+		return new MyArrayIterator($menuItemsValues);
 	}
 }
 ?>

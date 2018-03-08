@@ -42,7 +42,7 @@ class Proxy {
 		// Listen for commands and pass them to $object; then send back the
 		// serialized response to client
 		
-		$hostPort = split(':', $host);
+		$hostPort = explode(':', $host);
 		$host = $hostPort[0];
 		$port = (isset($hostPort[1]) ? $hostPort[1] : NULL);
 		
@@ -69,7 +69,7 @@ class Proxy {
 				} else if ($recv != "") {
 					echo "Received: " . $recv . "\n";
 					
-					$payloadArray = split(':', $recv, 2);
+					$payloadArray = explode(':', $recv, 2);
 					
 					$method = $payloadArray[0];
 					
@@ -106,7 +106,7 @@ class Proxy {
 	 * @return mixed Proxy response
 	 */
 	public static function getProxy($host) {
-		$hostPort = split(':', $host);
+		$hostPort = explode(':', $host);
 		return new ProxyObject($hostPort[0], (isset($hostPort[1]) ? $hostPort[1] : NULL));
 	}
 	

@@ -1,6 +1,6 @@
 <?php
 class Singleton {
-	//private static $uniqueInstance = new Singleton(); // Will not work in PHP
+	//private static $uniqueInstance = new Singleton(); // Will not work in PHP (expression not allowed as field value)
 	
 	private function __construct() {}
 	
