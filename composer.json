@@ -1,0 +1,19 @@
+{
+    "name": "maksi/head-first-design-pattern",
+    "authors": [
+        {
+            "name": "Tetiana Blindaruk",
+            "email": "t.blindaruk@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Maksi\\HeadFirstDesignPattern":"src"
+        }
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "require": {}
+}
