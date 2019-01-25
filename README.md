@@ -20,8 +20,11 @@ https://www.youtube.com/watch?v=v9ejT8FO-7I&t=0s&list=PLrhzvIcii6GNjpARdnO4ueTUA
 ### Code example 
 
 - [Ducks](./src/Strategy/Example1)  
+- [TaxStrategy](./src/Strategy/Example2) 
 
 ------------------------------
 ### TODO: 
 - [ ] add UML diagram from the 58 page;
-- [ ] add relation names for the UML
+- [ ] add relation names for the UML;
+- [ ] add UML diagram for the 2 example;
+- [ ] improve https://www.reddit.com/r/laravel/comments/aju9mc/is_it_strategy_pattern/eezw001/ for example 2;
