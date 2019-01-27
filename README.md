@@ -1,8 +1,9 @@
 # Head first. Design Pattern
 
-- 1. [Принципи проектирования](./documentation/1-design-principles.md)
-- 2. [Strategy](./documentation/2-strategy.md)
-- 3. [Observer](./documentation/3-observer.md)
+- [Принципи проектирования](./documentation/1-design-principles.md)
+- [Strategy](./documentation/2-strategy.md)
+- [Observer](./documentation/3-observer.md)
+- [Decorator](./documentation/4-decorator.md)
 
 ## TODO:
 - [ ] add relation names for the UML;
