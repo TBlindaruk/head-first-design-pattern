@@ -47,11 +47,11 @@ abstract class Pizza
     {
         // code to display pizza name and ingredients
         $display = '';
-        $display .= '---- ' . $this->name . " ----\n";
-        $display .= $this->dough . "\n";
-        $display .= $this->sauce . "\n";
+        $display .= '---- ' . $this->name . ' ----, ';
+        $display .= $this->dough . ', ';
+        $display .= $this->sauce . ', ';
         for ($i = 0; $i < count($this->toppings); $i++) {
-            $display .= $this->toppings[$i] . "\n";
+            $display .= $this->toppings[$i] . ', ';
         }
 
         return $display;
