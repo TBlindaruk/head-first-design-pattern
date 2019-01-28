@@ -1,9 +1,12 @@
 ## Factory Simple
 
+### Example
+
+[Pizza](./../src/Factory/PizzaSimpleFactory)
+
 ### TODO:
 - [ ] Add UML from page 149
-- [ ] Add code of PizzaStore with Factory (up to 149 page)
-- [ ] Add визначення of Factory
+- [ ] Add визначення of Simple Factory
 
 
 ## Factory Method
