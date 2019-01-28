@@ -16,6 +16,7 @@
 ### Examples:
 
 [WeatherData](./../src/Observer/Example1) - также можна добавить метод setChanged - и оповесчать наблюдателей, только когда `changed` - true.
+![Observer](./../src/Observer/Example1/UML.JPG)
 
-### TODO:
-- [ ] Add UML diagram from page 89
+### TODO
+[ ] Rotate image for the UML
