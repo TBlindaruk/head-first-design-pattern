@@ -14,3 +14,4 @@ Thanks a lot of for https://github.com/weburg/HeadFirstDesignPatternsInPHP proje
 
 ## TODO:
 - [ ] add relation names for the UML;
+- [ ] Add notice about Singleton pattern
