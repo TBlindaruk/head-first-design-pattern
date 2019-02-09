@@ -5,6 +5,7 @@
 - [SimpleControl](./../src/Command/SimpleControl)
 - [RemoteControl](./../src/Command/RemoteControl)
 - [RemoteControlWithUndo](./../src/Command/UndoRemoteControl)
+- [MultiControl](./../src/Command/Party)
 
 ### TODO:
 - [ ] add `command` from the 234 page
