@@ -4,6 +4,7 @@
 
 - [SimpleControl](./../src/Command/SimpleControl)
 - [RemoteControl](./../src/Command/RemoteControl)
+- [RemoteControlWithUndo](./../src/Command/UndoRemoteControl)
 
 ### TODO:
 - [ ] add `command` from the 234 page
