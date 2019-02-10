@@ -7,6 +7,7 @@
 - [Factory](./documentation/5-factory.md)
 - [Command](./documentation/7-command.md)
 - [Adapter](./documentation/8-adapter.md)
+- [Facade](./documentation/9-facade.md)
 
 --------------
 Thanks a lot of for https://github.com/weburg/HeadFirstDesignPatternsInPHP project

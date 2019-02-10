@@ -1,4 +1,8 @@
 <?php
+declare(strict_types = 1);
+
+namespace Maksi\HeadFirstDesignPattern\Facade\HomeTheater;
+
 class Screen {
 	protected $description;
 	

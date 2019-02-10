@@ -1,4 +1,8 @@
 <?php
+declare(strict_types = 1);
+
+namespace Maksi\HeadFirstDesignPattern\Facade\HomeTheater;
+
 class HomeTheaterTestDrive {
 	public static function main(array $args = array()) {
 		$amp = new Amplifier("Top-O-Line Amplifier");

@@ -1,4 +1,8 @@
 <?php
+declare(strict_types = 1);
+
+namespace Maksi\HeadFirstDesignPattern\Facade\HomeTheater;
+
 class DvdPlayer {
 	protected $description;
 	protected $currentTrack;

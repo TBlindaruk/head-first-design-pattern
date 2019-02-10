@@ -1,5 +1,9 @@
 <?php
-class PopcornPopper {
+declare(strict_types = 1);
+
+namespace Maksi\HeadFirstDesignPattern\Facade\HomeTheater;
+
+class TheaterLights {
 	protected $description;
 	
 	public function __construct($description) {
@@ -14,8 +18,8 @@ class PopcornPopper {
 		println($this->description . " off");
 	}
 
-	public function pop() {
-		println($this->description . " popping popcorn!");
+	public function dim($level) {
+		println($this->description . " dimming to " . $level  . "%");
 	}
 
 	public function __toString() {

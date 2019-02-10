@@ -1,5 +1,17 @@
 <?php
+declare(strict_types = 1);
+
+namespace Maksi\HeadFirstDesignPattern\Facade\HomeTheater;
+
+/**
+ * Class Amplifier
+ *
+ * @package Maksi\HeadFirstDesignPattern\Facade\HomeTheater
+ */
 class Amplifier {
+    /**
+     * @var string
+     */
 	protected $description;
 	/**
 	 * @var Tuner
@@ -13,13 +25,18 @@ class Amplifier {
 	 * @var CdPlayer
 	 */
 	protected $cd;
-	
-	public function __construct($description) {
+
+    /**
+     * Amplifier constructor.
+     *
+     * @param string $description
+     */
+	public function __construct(string $description) {
 		$this->description = $description;
 	}
 
 	public function on() {
-		println($this->description . " on");
+		echo $this->description . " on" . PHP_EOL;
 	}
 
 	public function off() {
