@@ -6,6 +6,7 @@
 - [Decorator](./documentation/4-decorator.md)
 - [Factory](./documentation/5-factory.md)
 - [Command](./documentation/7-command.md)
+- [Adapter](./documentation/8-adapter.md)
 
 --------------
 Thanks a lot of for https://github.com/weburg/HeadFirstDesignPatternsInPHP project
