@@ -5,7 +5,7 @@
 - [Observer](./documentation/3-observer.md)
 - [Decorator](./documentation/4-decorator.md)
 - [Factory](./documentation/5-factory.md)
-
+- [Command](./documentation/7-command.md)
 
 --------------
 Thanks a lot of for https://github.com/weburg/HeadFirstDesignPatternsInPHP project
