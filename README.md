@@ -10,6 +10,7 @@
 - [Facade](./documentation/9-facade.md)
 - [TemplateMethod](./documentation/10-template-method.md)
 - [Iterator](./documentation/11-iterator.md)
+- [Composite](./documentation/12-composite.md)
 
 --------------
 Thanks a lot of for https://github.com/weburg/HeadFirstDesignPatternsInPHP project
